@@ -1,6 +1,4 @@
-# Workshop-4-Databases
-
-# Shopping Database Project Repository
+# Workshop-4-Databases - Shopping Database Project Repository
 
 This repository is dedicated to tasks related to the database. It includes various database exercises and projects. For basic information about databases, please refer to the PDF file available at [Basic Database Information](https://github.com/MichalBialek01/Workshop-4---Database-/blob/main/Bazy_danych.pdf).
 
